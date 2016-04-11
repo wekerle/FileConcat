@@ -1,0 +1,2 @@
+recommender system, user psychological profile, filtering
+psychological profile (300), recommender system (180), movie genre (130), user psychological profile (126), collaborative filtering (100), content based filtering (79), engineering politehnica university (63), similarity value (60), movie recommendation (50), cosine similarity (50), movie recommendation system (47), intelligent document processing support (40), computer science (40), vectorial product (40), user preference (40),
